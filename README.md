@@ -21,6 +21,10 @@ Language selection
 
 * (x) English
 
+Update installer
+* (x) update to the new installer
+
+
 Keyboard selection
 
 * (x) English (us)
@@ -47,8 +51,6 @@ Mirror address
 * (us) http://us.archive.ubuntu.com/ubuntu
 * (aus) http://au.archive.ubuntu.com/ubuntu
 
-Update installer
-* (x) update to the new installer
 
 
 Storage
