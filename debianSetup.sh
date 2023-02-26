@@ -25,7 +25,7 @@ sudo apt purge webcamoid -y
 echo "[+] Do you own an alpha network adaptor (y/n)"
 read  drivers
 if [[ $drivers == "y" ]]; then
-	sudo apt-get install rtl8812au-dkms
+	sudo apt-get install rtl8812au-dkms -y
 	sudo apt install dkms
 	git clone https://github.com/aircrack-ng/rtl8812au
 	cd rtl8812au/
