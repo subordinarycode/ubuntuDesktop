@@ -91,5 +91,21 @@ Desktop installation
 ---
     curl https://raw.githubusercontent.com/subordinarycode/ubuntuDesktop/main/debianSetup.sh > debianSetup.sh && chmod +x debianSetup.sh
     ./debianSetup.sh
+    
+
+Notes
+---
+This project was undertaken with the aim of creating a reliable machine that could be booted from almost any device. 
+The primary goal was to minimize the system's footprint by installing only essential tools, resulting in a lean and optimized device that met the user's specific requirements.
+
+
+Why?
+---
+
+* A minimal installation of Ubuntu allows more control over the system.
+* A minimal installation can typically improve performance and make the system more efficient. 
+* A minimal installation can run in resource-constrained environments. 
+
+
 
 
