@@ -6,7 +6,7 @@ cd ~/
 sudo apt-get update -y && sudo apt-get upgrade -y 
 
 # installing tools avaliable from the repo
-sudo apt-get install tor zsh htop git python3.11 python3-pip ipython3 golang-go firefox -y
+sudo apt-get install tor zsh htop git python3.11 python3-pip ipython3 golang-go -y
 
 # Installing the desktop environment
 sudo apt-get install ubuntu-mate-desktop -y 
