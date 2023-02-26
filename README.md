@@ -44,7 +44,8 @@ Proxy address
 * Leave blank if a proxy is not needed
 
 Mirror address
-* Use default of http://us.archive.ubuntu.com/ubuntu
+* (us) http://us.archive.ubuntu.com/ubuntu
+* (aus) http://au.archive.ubuntu.com/ubuntu
 
 Update installer
 * (x) update to the new installer
