@@ -11,7 +11,7 @@ Installing into virtual box
 * click (new) to add a new machine
 * Give the machine a name and select the newly downloaded ISO file
 * Give the machine at least 2 gig of ram and 2 CPU cores 
-* Storage can be as low as 25 gig but recommended is 35 gig
+* Storage can be as low as 35 gig
 * Save these changes and start the VM
 
 Install process
