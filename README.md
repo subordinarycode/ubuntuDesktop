@@ -46,6 +46,10 @@ Proxy address
 Mirror address
 * Use default of http://us.archive.ubuntu.com/ubuntu
 
+Update installer
+* (x) update to the new installer
+
+
 Storage
 ---
 * (x) Use an entire disk
