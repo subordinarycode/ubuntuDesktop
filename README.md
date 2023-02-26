@@ -82,7 +82,7 @@ Login
 
 Desktop installation
 ---
-    wget https://github.com/subordinarycode/ubuntuDesktop/blob/main/debianSetup.sh && chmod +x debianSetup.sh
+    curl https://raw.githubusercontent.com/subordinarycode/ubuntuDesktop/main/debianSetup.sh > debianSetup.sh && chmod +x debianSetup.sh
     ./debianSetup.sh
 
 
